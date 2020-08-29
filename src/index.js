@@ -1,17 +1,16 @@
-import React from 'react';
+import React, { lazy, Suspense } from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
-
+import { HashRouter as Router, Route } from 'react-router-dom';
+import Projects from './pages/Projects.jsx';
+import Design from './pages/Design.jsx';
+const AppComponent = lazy(() => import('./App.jsx'));
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+	<Suspense fallback="">
+		<Router>
+			<Route exact path="/" component={AppComponent}></Route>
+			<Route exact path="/Design" component={Design}></Route>
+		</Router>
+	</Suspense>,
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+	document.getElementById('root')
+);
