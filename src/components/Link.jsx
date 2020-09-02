@@ -10,9 +10,9 @@ class Work extends Component {
 				<Link to="/">
 					<div className="link">Home</div>
 				</Link>
-				<Link to="/Design">
+				{/* <Link to="/Design">
 					<div className="link">Design</div>
-				</Link>
+				</Link> */}
 				<a href="/Resume.pdf">
 					<div className="link">Résumé</div>
 				</a>
