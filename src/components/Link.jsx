@@ -7,15 +7,25 @@ class Work extends Component {
 				{/* <Link to="/Projects">
 							<div className="link">Projects</div>
 						</Link> */}
-				<Link to="/">
-					<div className="link">Home</div>
-				</Link>
+				
 				{/* <Link to="/Design">
 					<div className="link">Design</div>
 				</Link> */}
 				<a href="/Resume.pdf">
 					<div className="link">Résumé</div>
 				</a>
+				<a href="https://www.behance.net/raghavmathur2">
+					<div className="link">Design</div>
+				</a>
+				<a href="https://github.com/raghavmathur1">
+					<div className="link">Projects</div>
+				</a>
+				<a href="https://www.codechef.com/users/vahgar1">
+					<div className="link">Codechef</div>
+				</a>
+				{/* <Link to="/n">
+					<div className="link">Home</div>
+				</Link> */}
 			</div>
 		);
 	}
