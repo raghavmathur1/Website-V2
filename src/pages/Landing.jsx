@@ -13,7 +13,7 @@ class Landing extends Component {
 						<div>RAGHAV MATHUR</div>
 					</div>
 					<div className="subhead">
-						<div>Frontend Developer | Designer</div>
+						<div>Developer | Designer</div>
 					</div>
 				</div>
 				{/* <Suspense fallback={renderBelow()}>
