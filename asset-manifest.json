@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Website-V2/static/css/main.13a73956.chunk.css",
-    "main.js": "/Website-V2/static/js/main.44f81c1e.chunk.js",
-    "main.js.map": "/Website-V2/static/js/main.44f81c1e.chunk.js.map",
-    "runtime-main.js": "/Website-V2/static/js/runtime-main.1cfd271c.js",
-    "runtime-main.js.map": "/Website-V2/static/js/runtime-main.1cfd271c.js.map",
+    "main.js": "/Website-V2/static/js/main.c16610ef.chunk.js",
+    "main.js.map": "/Website-V2/static/js/main.c16610ef.chunk.js.map",
+    "runtime-main.js": "/Website-V2/static/js/runtime-main.a2da1e53.js",
+    "runtime-main.js.map": "/Website-V2/static/js/runtime-main.a2da1e53.js.map",
     "static/js/2.366ec20e.chunk.js": "/Website-V2/static/js/2.366ec20e.chunk.js",
     "static/js/2.366ec20e.chunk.js.map": "/Website-V2/static/js/2.366ec20e.chunk.js.map",
     "static/js/3.8463e9b8.chunk.js": "/Website-V2/static/js/3.8463e9b8.chunk.js",
     "static/js/3.8463e9b8.chunk.js.map": "/Website-V2/static/js/3.8463e9b8.chunk.js.map",
-    "static/js/4.95a488fc.chunk.js": "/Website-V2/static/js/4.95a488fc.chunk.js",
-    "static/js/4.95a488fc.chunk.js.map": "/Website-V2/static/js/4.95a488fc.chunk.js.map",
+    "static/js/4.38d14618.chunk.js": "/Website-V2/static/js/4.38d14618.chunk.js",
+    "static/js/4.38d14618.chunk.js.map": "/Website-V2/static/js/4.38d14618.chunk.js.map",
     "index.html": "/Website-V2/index.html",
-    "precache-manifest.60a7b80385b13b2256495b7fbb6452ad.js": "/Website-V2/precache-manifest.60a7b80385b13b2256495b7fbb6452ad.js",
+    "precache-manifest.e5d242f9e337c631cbde5184d7b3f056.js": "/Website-V2/precache-manifest.e5d242f9e337c631cbde5184d7b3f056.js",
     "service-worker.js": "/Website-V2/service-worker.js",
     "static/css/main.13a73956.chunk.css.map": "/Website-V2/static/css/main.13a73956.chunk.css.map",
     "static/js/2.366ec20e.chunk.js.LICENSE.txt": "/Website-V2/static/js/2.366ec20e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Website-V2/static/media/Cera Stencil PRO.00248829.otf",
-    "static/media/back3.svg": "/Website-V2/static/media/back3.bd7469bf.svg",
+    "static/media/back2.svg": "/Website-V2/static/media/back2.50434473.svg",
     "static/media/gam.jpg": "/Website-V2/static/media/gam.ddc96829.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cfd271c.js",
+    "static/js/runtime-main.a2da1e53.js",
     "static/js/2.366ec20e.chunk.js",
     "static/css/main.13a73956.chunk.css",
-    "static/js/main.44f81c1e.chunk.js"
+    "static/js/main.c16610ef.chunk.js"
   ]
 }
